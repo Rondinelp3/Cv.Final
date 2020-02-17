@@ -19,3 +19,17 @@ body {
 .card .card-image img{
     height: 260px
 }
+/*footer*/
+#landing_footer{
+    height: 100vh;
+    background-image: url('../img/footer.jpg');
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    z-index: -1;
+    color: white
+}
+.section a{
+    color: white
+}
