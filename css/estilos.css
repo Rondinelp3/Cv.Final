@@ -11,7 +11,7 @@ body {
     background-repeat: no-repeat;
     background-attachment: fixed;
     z-index: -1;
-    color: black
+    color: white
 }
 #mainText{
     margin-top: 30vh;
@@ -32,4 +32,7 @@ body {
 }
 .section a{
     color: white
+}
+#footText{
+    margin-top: 30vh;
 }
