@@ -84,3 +84,16 @@ a.brand-logo{
 #footText{
     margin-top: 30vh;
 }
+
+/*cambios animated*/
+#mainText {
+  animation-duration: 3s;
+
+  animation-iteration-count: infinite;
+}
+#efe{
+   animation-duration: 3s;
+
+  animation-iteration-count: infinite;
+ 
+}
