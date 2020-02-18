@@ -88,12 +88,12 @@ a.brand-logo{
 /*cambios animated*/
 #mainText {
   animation-duration: 3s;
-
+     
   animation-iteration-count: infinite;
 }
 #efe{
    animation-duration: 3s;
-
+  
   animation-iteration-count: infinite;
  
 }

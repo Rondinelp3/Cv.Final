@@ -1,0 +1,25 @@
+{
+  "short_name": "Daniel",
+  "name": "Daniel",
+  "icons": [
+    {
+      "src": "../img/favicon/progresiva.jpg",
+      "type": "image/png",
+      "sizes": "48x48"
+    },
+    {
+      "src": "../img/favicon/progresiva2.jpg",
+      "type": "image/png",
+      "sizes": "96x96"
+    },
+    {
+      "src": "../img/favicon/progresiva3.jpg",
+      "type": "image/png",
+      "sizes": "192x192"
+    }
+  ],
+  "background_color": "#000000",
+  "display": "standalone", 
+  "start_url": "/",
+  "theme_color": "#000000"
+}
