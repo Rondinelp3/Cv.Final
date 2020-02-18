@@ -1,3 +1,27 @@
+@font-face {
+  font-family: 'OpenSansLight';
+  src: url("../fonts/OpenSans-Light-webfont.eot");
+  src: url("../fonts/OpenSans-Light-webfont.eot?#iefix") format("embedded-opentype"), url("../fonts/OpenSans-Light-webfont.woff") format("woff"), url("../fonts/OpenSans-Light-webfont.ttf") format("truetype"), url("../fonts/OpenSans-Light-webfont.svg#OpenSansLight") format("svg"); 
+}
+
+
+@font-face {
+  font-family: 'SF-KingstonRegular';
+  src: url("../fonts/SF-Kingston-Regular.otf"); }
+
+
+.brand-logo,.lit{
+      font-family: 'SF-KingstonRegular';
+}
+
+.supp,h4,h2.center.header{
+    font-family: 'OpenSansLight'; 
+}
+
+
+
+
+
 body {
     background-color: black;
     color: rgba(255,255,255,0.8);
@@ -11,14 +35,36 @@ body {
     background-repeat: no-repeat;
     background-attachment: fixed;
     z-index: -1;
-    color: white
+    color: white;
 }
 #mainText{
     margin-top: 30vh;
 }
 .card .card-image img{
-    height: 260px
+    height: 26vh
 }
+#intro{
+    margin-top: 50px;
+}
+#p1{
+    height: 375px;
+}
+.section{
+    min-height: 100vh;
+    
+}
+
+
+
+p.supp{
+    font-size: 17px
+}
+a.brand-logo{
+    font-size: 22px
+}
+
+
+
 /*footer*/
 #landing_footer{
     height: 100vh;
