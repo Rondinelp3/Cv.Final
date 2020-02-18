@@ -49,7 +49,7 @@ body {
     margin-top: 50px;
 }
 #p1{
-    height: 375px;
+    height:auto;
 }
 .section{
     min-height: 100vh;
